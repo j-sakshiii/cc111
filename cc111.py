@@ -1,1 +1,2 @@
-print("hellooo")
+val = input("Enter your value: ")
+print(val)
